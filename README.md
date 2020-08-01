@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hi there, I am we3z 👋
+I am a php development, base php, golang, vue
+🔭 I’m currently working on Health-care company
+🌱 I’m currently learning vue and golang
+📫 How to reach me: redtimestamp@gmail.com
 <!--
 **we3z/we3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
