@@ -7,7 +7,6 @@
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=we3z)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=we3z&hide=ipynb,html&layout=compact)
-''')
 
 <!--
 **we3z/we3z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
