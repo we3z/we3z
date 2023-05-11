@@ -1,5 +1,5 @@
 ### Hi there, I am we3z 👋
-##### 😄 I am a php development, base php, golang, vue
+##### 😄 I am a student, base php, golang, vue
 ##### 🔭 I’m currently working on Health-care company
 ##### 🌱 I’m currently learning vue and golang
 ##### 📫 How to reach me: redtimestamp@gmail.com
